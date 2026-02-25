@@ -1,7 +1,7 @@
 # takoyaki1223.github.io
 ## はじめに
 ### 何するところ？
-ひとまず、息子である ゆっくりライと [X:@yukkuri-light](https://x.com/yukkuri-light) が、github でサイトを作りたい！と言ったので作り始めた。
+ひとまず、息子である ゆっくりライと [X:@yukkuri_light](https://x.com/yukkuri_light) が、github でサイトを作りたい！と言ったので作り始めた。
 
 ### 今後どうする？
 - とりあえずgithubってのを使ってみたかった
