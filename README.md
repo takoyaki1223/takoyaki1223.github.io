@@ -11,3 +11,6 @@
 ## takoyaki1223 とは
 Keitak CafeというYouTubeチャンネルで、夫婦で配信していた人。
 今は色々あってお休み中。
+
+:::note warn
+永遠に工事中です
